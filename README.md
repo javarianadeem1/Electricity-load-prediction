@@ -1,3 +1,4 @@
+<img width="1080" height="580" alt="Actual_vs_Predicted_load" src="https://github.com/user-attachments/assets/043d9df6-0bf0-4523-a6c1-305983e9f55d" />
 # Electricity Load Prediction Using Regression Analysis
 
 ## Project Overview
